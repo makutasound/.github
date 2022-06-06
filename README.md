@@ -1,2 +1,2 @@
-# .github
-makuta sound front page
+# Makuta Sound
+## マクタ サウンド
